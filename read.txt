@@ -1,8 +1,6 @@
 read
 develop
 feature
-<<<<<<< HEAD
 develop 2
-=======
 realease 1.0
->>>>>>> realease-1.2 commit 1st
+realease 1.1
